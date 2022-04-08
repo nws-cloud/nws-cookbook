@@ -1,2 +1,2 @@
-# nws-user-example-cloud
+# NWS Cookbook
 NWS Cloud: Example deployment scripts for end users
